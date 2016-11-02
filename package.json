@@ -1,0 +1,26 @@
+{
+  "name": "ng-shared",
+  "version": "0.0.1",
+  "description": "Angular2 shared component module package manager for git",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vecbralis/angular2-shared-component-package-manager.git"
+  },
+  "keywords": [
+    "Angular2",
+    "Shared",
+    "component",
+    "package",
+    "manager"
+  ],
+  "author": "Martins Vecbralis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vecbralis/angular2-shared-component-package-manager/issues"
+  },
+  "homepage": "https://github.com/vecbralis/angular2-shared-component-package-manager#readme"
+}
