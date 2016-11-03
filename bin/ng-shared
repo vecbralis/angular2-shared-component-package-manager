@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+'use strict';
+
+var ngShared = require('../lib/ngShared'),
+  program = require('commander');
+
+program
+  .description('Angular2 shared package manager')
+  .parse(process.argv);
+
+ngShared.install();
